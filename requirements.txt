@@ -3,4 +3,4 @@ pandas
 vaderSentiment
 jupyter
 matplotlib
-ndicts
+pyarrow
