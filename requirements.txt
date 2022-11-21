@@ -4,3 +4,4 @@ vaderSentiment
 jupyter
 matplotlib
 pyarrow
+nltk
